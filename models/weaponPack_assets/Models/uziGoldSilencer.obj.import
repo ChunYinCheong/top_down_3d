@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/uziGoldSilencer.obj-3e65cd0ca03888ee27d45ee71b0fa32d.mesh"
+
+[deps]
+
+files=[ "res://.import/uziGoldSilencer.obj-3e65cd0ca03888ee27d45ee71b0fa32d.mesh" ]
+
+source_file="res://models/weaponPack_assets/Models/uziGoldSilencer.obj"
+dest_files=[ "res://.import/uziGoldSilencer.obj-3e65cd0ca03888ee27d45ee71b0fa32d.mesh", "res://.import/uziGoldSilencer.obj-3e65cd0ca03888ee27d45ee71b0fa32d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

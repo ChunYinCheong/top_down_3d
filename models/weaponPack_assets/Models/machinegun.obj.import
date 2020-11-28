@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/machinegun.obj-d8e4431a3058c16d33074ac6979bb7ce.mesh"
+
+[deps]
+
+files=[ "res://.import/machinegun.obj-d8e4431a3058c16d33074ac6979bb7ce.mesh" ]
+
+source_file="res://models/weaponPack_assets/Models/machinegun.obj"
+dest_files=[ "res://.import/machinegun.obj-d8e4431a3058c16d33074ac6979bb7ce.mesh", "res://.import/machinegun.obj-d8e4431a3058c16d33074ac6979bb7ce.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
